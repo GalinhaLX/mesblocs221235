@@ -1,13 +1,12 @@
 {
 	"blocs": [
 		{
-			"type": "b",
-			"cat_category": "contact"
+			"type": "a",
+			"cat_category": "attract"
 		},
 		{
-			"type": "c",
-			"cat_category": "c",
-			"cat_age": "33"
+			"type": "b",
+			"cat_category": "contact"
 		}
 	]
 }
