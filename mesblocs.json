@@ -3,7 +3,8 @@
 		{
 			"type": "a",
 			"cat_category": "attract",
-			"ref": "a"
+			"ref": "a",
+			"category": "attract"
 		}
 	]
 }
