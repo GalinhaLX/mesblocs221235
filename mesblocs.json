@@ -2,7 +2,8 @@
 	"blocs": [
 		{
 			"cat_ref": "hero1",
-			"cat_category": "attract"
+			"cat_category": "attract",
+			"cat_age": "33"
 		},
 		{
 			"cat_ref": "contact1",
