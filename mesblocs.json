@@ -1,20 +1,12 @@
 {
 	"blocs": [
 		{
-			"ref": "a",
-			"category": "attract",
-			"tpl": "WORK-BULMA-MAVO-includeTpl2.js"
-		},
-		{
-			"ref": "b"
-		},
-		{
-			"ref": "c",
+			"ref": "b",
 			"category": "contact",
 			"tpl": "WORK-BULMA-MAVO-includeTpl.js"
 		},
 		{
-			"ref": "d"
+			"ref": "c"
 		}
 	]
 }
