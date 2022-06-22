@@ -1,0 +1,12 @@
+{
+	"blocs": [
+		{
+			"cat_ref": "hero1",
+			"cat_category": "attract"
+		},
+		{
+			"cat_ref": "contact1",
+			"cat_category": "contact"
+		}
+	]
+}
