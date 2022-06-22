@@ -4,11 +4,6 @@
 			"type": "a",
 			"cat_category": "attract",
 			"ref": "a"
-		},
-		{
-			"type": "b",
-			"cat_category": "contact",
-			"ref": "b"
 		}
 	]
 }
