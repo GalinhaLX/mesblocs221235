@@ -1,12 +1,12 @@
 {
 	"blocs": [
 		{
-			"cat_ref": "hero1",
+			"type": "a",
 			"cat_category": "attract",
-			"cat_age": "33"
+			"cat_ref": "a"
 		},
 		{
-			"cat_ref": "contact1",
+			"type": "b",
 			"cat_category": "contact"
 		}
 	]
