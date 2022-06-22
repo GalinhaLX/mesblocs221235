@@ -1,13 +1,5 @@
 {
 	"blocs": [
-		{
-			"type": "a",
-			"cat_category": "attract",
-			"cat_ref": "a"
-		},
-		{
-			"type": "b",
-			"cat_category": "contact"
-		}
+		{}
 	]
 }
