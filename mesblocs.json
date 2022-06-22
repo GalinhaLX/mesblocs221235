@@ -1,5 +1,8 @@
 {
 	"blocs": [
-		{}
+		{
+			"type": "b",
+			"cat_category": "contact"
+		}
 	]
 }
