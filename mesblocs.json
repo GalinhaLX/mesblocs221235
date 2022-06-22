@@ -1,12 +1,3 @@
 {
-	"blocs": [
-		{
-			"type": "a",
-			"cat_category": "attract"
-		},
-		{
-			"type": "b",
-			"cat_category": "contact"
-		}
-	]
+	"blocs": []
 }
